@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DataAppReact/static/css/main.d35cf5cc.css",
+    "main.js": "/DataAppReact/static/js/main.a1547efe.js",
+    "index.html": "/DataAppReact/index.html",
+    "main.d35cf5cc.css.map": "/DataAppReact/static/css/main.d35cf5cc.css.map",
+    "main.a1547efe.js.map": "/DataAppReact/static/js/main.a1547efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35cf5cc.css",
+    "static/js/main.a1547efe.js"
+  ]
+}
